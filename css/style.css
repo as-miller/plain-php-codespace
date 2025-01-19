@@ -1,0 +1,16 @@
+.sidebar {
+    background-color: #fff;
+    border-left: 1px solid #f8f8f8;
+    }
+
+    .dice-log {
+        background-color: #f8f9fa;
+        border-radius: 4px;
+    }
+    .log-entry {
+        padding: 4px 8px;
+        border-bottom: 1px solid #dee2e6;
+    }
+    .log-entry:last-child {
+        border-bottom: none;
+    }
